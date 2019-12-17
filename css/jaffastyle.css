@@ -1,0 +1,57 @@
+body {
+  /* background-image: url('./images/Radhi.jpeg'); */
+  /* width: 75vw;
+  height: 75vh; */
+  background-size: contain;
+  background-position: right;
+  background-color: black;
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  color: white;
+  font-size-adjust: auto;
+}
+
+.description {
+  text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: ;
+}
+
+.fa-instagram {
+  padding: 25px;
+  background: #125688;
+  color: white;
+  background-position: right;
+}
+/* Facebook */
+.fa-facebook {
+  padding: 25px;
+  background: #3B5998;
+  color: white;
+}
+/* Twitter */
+.fa-twitter {
+  padding: 25px;
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  padding: 25px;
+  background: #bb0000;
+  color: white;
+}
+.card-title{
+  color: black
+}
+
+.card-text {
+  color: black
+}
